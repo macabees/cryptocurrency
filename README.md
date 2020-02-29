@@ -1,5 +1,6 @@
 # Cryptocurrency
-## Displays the top ten cryptocurrencies realtime exchange rates.
+
+Displays the top ten cryptocurrencies realtime exchange rates.
 
 ## cryptocurrency (Project Info)
 [Website](https://github.com/alexanderepstein/Bash-Snippets)
