@@ -1,5 +1,4 @@
 # Cryptocurrency
-
 Displays the top ten cryptocurrencies realtime exchange rates.
 
 ## cryptocurrency (Project Info)
